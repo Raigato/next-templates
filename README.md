@@ -24,9 +24,9 @@ yarn create next-app -e "https://github.com/Raigato/next-boilerplates/tree/maste
 - Jest config with testing-library + mock-extended
 - Normalized CSS
 
-🚨  **All tests should be included in the "/src/\_\_tests\_\_" folder and have a .spec (unit) or .test (integration) extension**
+**All tests should be included in the "/src/\_\_tests\_\_" folder and have a .spec (unit) or .test (integration) extension** 🚨
 
-🏎️  _This template uses SWC compiler_
+_This template uses SWC compiler_ 🏎️
 
 ## Available Scripts 🤖
 

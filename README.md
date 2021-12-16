@@ -2,7 +2,7 @@
 
 This is a template base for [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-To create a Next.js app using this template, run one the following commands:
+To create a Next.js app using this template, run one of the following commands:
 
 ```
 npx create-next-app -e "https://github.com/Raigato/next-boilerplates/tree/master/base"

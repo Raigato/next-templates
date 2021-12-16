@@ -10,7 +10,6 @@ To create a Next.js app using this template, run one of the following commands:
 npx create-next-app --use-npm -e "https://github.com/Raigato/next-boilerplates/tree/master/base"
 ```
 
-or
 **yarn**
 
 ```

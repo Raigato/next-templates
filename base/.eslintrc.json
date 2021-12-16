@@ -3,6 +3,13 @@
   "plugins": ["prettier"],
   "rules": {
     "@next/next/no-page-custom-font": "off",
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "no-unused-vars": [
+      "error",
+      {
+        "argsIgnorePattern": "^_",
+        "varsIgnorePattern": "^_"
+      }
+    ]
   }
 }

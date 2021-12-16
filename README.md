@@ -26,7 +26,7 @@ _Uses SWC compiler_
 
 ## Available Scripts
 
-- dev - run development server
+- `dev` - run development server
 - build - build an optimized production build
 - start - serve built app
 - lint - check for linting errors

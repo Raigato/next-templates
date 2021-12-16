@@ -1,12 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Raigato Next Typescript Boilerplate 🐊
 
-## Getting Started
+This is a template base for [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+To create a Next.js app using this template, run one of the following commands:
+
+**npm**
+
+```
+npx create-next-app --use-npm -e "https://github.com/Raigato/next-boilerplates/tree/master/base"
+```
+
+**yarn**
+
+```
+yarn create next-app -e "https://github.com/Raigato/next-boilerplates/tree/master/base"
+```
+
+## This template includes 📦
+
+- Typescript + config
+- Prettier config
+- Eslint config to work with Prettier
+- Jest config with testing-library + mock-extended
+- Normalized CSS
+
+**All tests should be included in the "/src/\_\_tests\_\_" folder and have a .spec (unit) or .test (integration) extension** 🚨
+
+_Uses SWC compiler_ 🏎️
+
+## Available Scripts 🤖
+
+- `dev` - run development server
+- `build` - build an optimized production build
+- `start` - serve built app
+- `lint` - check for linting errors
+- `lint:fix` - check for linting errors + fix some (prettier mainly)
+- `test` - run tests
+- `test:watch` - run tests in watch mode
+
+## Getting Started  🚀
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
+```
+
+or
+
+```
 yarn dev
 ```
 
@@ -18,7 +60,7 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+### Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -27,7 +69,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+### Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 

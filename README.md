@@ -26,13 +26,13 @@ _Uses SWC compiler_
 
 ## Available Scripts
 
-- dev: run development server
-- build: build an optimized production build
-- start: serve built app
-- lint: check for linting errors
-- lint:fix: check for linting errors + fix some (prettier mainly)
-- test: run tests
-- test:watch: run test in watch mode
+- dev - run development server
+- build - build an optimized production build
+- start - serve built app
+- lint - check for linting errors
+- lint:fix - check for linting errors + fix some (prettier mainly)
+- test - run tests
+- test:watch - run test in watch mode
 
 ## Getting Started
 

@@ -18,7 +18,7 @@ yarn create next-app -e "https://github.com/Raigato/next-boilerplates/tree/maste
 
 ## This template includes 📦
 
-- Low boilerplate code (Hello World h1 only)
+- Low boilerplate code (Hello World only)
 - Typescript + config
 - Prettier config
 - Eslint config to work with Prettier

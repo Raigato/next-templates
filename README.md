@@ -4,11 +4,14 @@ This is a template base for [Next.js](https://nextjs.org/) project bootstrapped 
 
 To create a Next.js app using this template, run one of the following commands:
 
+**npm**
+
 ```
-npx create-next-app -e "https://github.com/Raigato/next-boilerplates/tree/master/base"
+npx create-next-app --use-npm -e "https://github.com/Raigato/next-boilerplates/tree/master/base"
 ```
 
 or
+**yarn**
 
 ```
 yarn create next-app -e "https://github.com/Raigato/next-boilerplates/tree/master/base"

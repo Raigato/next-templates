@@ -2,6 +2,8 @@
 
 This is a template base for [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+_Source:_ [Raigato Next Typescript Template](https://github.com/Raigato/next-templates)
+
 To create a Next.js app using this template, run one of the following commands:
 
 **npm**

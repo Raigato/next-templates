@@ -32,7 +32,7 @@ _Uses SWC compiler_
 - lint - check for linting errors
 - lint:fix - check for linting errors + fix some (prettier mainly)
 - test - run tests
-- test:watch - run test in watch mode
+- test:watch - run tests in watch mode
 
 ## Getting Started
 

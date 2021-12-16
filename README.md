@@ -23,7 +23,8 @@ yarn create next-app -e "https://github.com/Raigato/next-boilerplates/tree/maste
 - Normalized CSS
 
 **Tests should all be included in the "/src/\_\_tests\_\_" folder and have a .spec or .test extension**
-_Uses SWC compiler_
+
+_This template uses SWC compiler_
 
 ## Available Scripts
 

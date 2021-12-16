@@ -16,7 +16,7 @@ npx create-next-app --use-npm -e "https://github.com/Raigato/next-boilerplates/t
 yarn create next-app -e "https://github.com/Raigato/next-boilerplates/tree/master/base"
 ```
 
-## This template includes:
+## This template includes: 📦
 
 - Typescript + config
 - Prettier config

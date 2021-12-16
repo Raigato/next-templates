@@ -6,4 +6,7 @@ module.exports = {
   ],
   testPathIgnorePatterns: ["<rootDir>/.next/", "<rootDir>/node_modules/"],
   testRegex: "(/__tests__/.*.(spec|test)).(j|t)sx?$",
+  transform: {
+    "^.+\\.(t|j)sx?$": ["@swc/jest"],
+  },
 }

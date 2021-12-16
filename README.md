@@ -16,6 +16,7 @@ yarn create next-app -e "https://github.com/Raigato/next-boilerplates/tree/maste
 - Prettier config
 - Eslint config to work with Prettier
 - Jest config with testing-library
+- Normalized CSS
 
 _Uses SWC compiler_
 

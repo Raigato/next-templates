@@ -20,7 +20,7 @@ yarn create next-app -e "https://github.com/Raigato/next-boilerplates/tree/maste
 
 _Uses SWC compiler_
 
-### Getting Started
+## Getting Started
 
 First, run the development server:
 

@@ -1,4 +1,4 @@
-# Raigato Next Typescript Boilerplate 🐊
+# Raigato Next Typescript Template 🐊
 
 This is a template base for [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -18,6 +18,7 @@ yarn create next-app -e "https://github.com/Raigato/next-boilerplates/tree/maste
 
 ## This template includes 📦
 
+- Low boilerplate code
 - Typescript + config
 - Prettier config
 - Eslint config to work with Prettier
@@ -38,7 +39,7 @@ _Uses SWC compiler_ 🏎️
 - `test` - run tests
 - `test:watch` - run tests in watch mode
 
-## Getting Started  🚀
+## Getting Started 🚀
 
 First, run the development server:
 

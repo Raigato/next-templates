@@ -4,11 +4,10 @@ _Source: [Raigato Next Typescript Template](https://github.com/Raigato/next-temp
 
 This is a template base for [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-To create a Next.js app using this template, run one of the following commands:
+List of templates:
 
-[`Base Template`](https://github.com/Raigato/next-templates/tree/master/base)
-
-[`With Styled Components`](https://github.com/Raigato/next-templates/tree/master/with-styled-components)
+- [`Base Template`](https://github.com/Raigato/next-templates/tree/master/base)
+- [`With Styled Components`](https://github.com/Raigato/next-templates/tree/master/with-styled-components)
 
 ## This template includes 📦
 

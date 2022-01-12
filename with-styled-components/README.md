@@ -26,6 +26,7 @@ yarn create next-app -e "https://github.com/Raigato/next-templates/tree/master/w
 - ESLint config with Prettier plugin
 - Jest config with testing-library + mock-extended
 - Normalized CSS
+- Styled Components with SSR config
 
 _Uses SWC compiler_ 🏎️
 

@@ -9,17 +9,6 @@ List of templates:
 - [`Base Template`](https://github.com/Raigato/next-templates/tree/master/base)
 - [`With Styled Components`](https://github.com/Raigato/next-templates/tree/master/with-styled-components)
 
-## This template includes 📦
-
-- Low boilerplate code (Hello World only)
-- Typescript + config
-- Prettier config
-- ESLint config with Prettier plugin
-- Jest config with testing-library + mock-extended
-- Normalized CSS
-
-_Uses SWC compiler_ 🏎️
-
 ## Available Scripts 🤖
 
 - `dev` - run development server

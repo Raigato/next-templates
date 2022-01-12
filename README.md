@@ -7,6 +7,7 @@ This is a template base for [Next.js](https://nextjs.org/) project bootstrapped 
 To create a Next.js app using this template, run one of the following commands:
 
 Base Template: [https://github.com/Raigato/next-templates/tree/master/base](https://github.com/Raigato/next-templates/tree/master/base)
+
 With Styled Components: [https://github.com/Raigato/next-templates/tree/master/with-styled-components](https://github.com/Raigato/next-templates/tree/master/with-styled-components)
 
 ## This template includes 📦

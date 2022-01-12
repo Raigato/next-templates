@@ -27,8 +27,6 @@ yarn create next-app -e "https://github.com/Raigato/next-templates/tree/master/w
 - Jest config with testing-library + mock-extended
 - Normalized CSS
 
-**All tests should be included in the "/src/\_\_tests\_\_" folder and have a .spec (unit) or .test (integration) extension** 🚨
-
 _Uses SWC compiler_ 🏎️
 
 ## Available Scripts 🤖

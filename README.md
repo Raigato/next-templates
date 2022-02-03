@@ -61,4 +61,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - Husky
 - Storybook
 - Use template with tests and stories
+- Logger
 - Complete template

@@ -13,6 +13,7 @@ This is a template base for [Next.js](https://nextjs.org/) project bootstrapped 
 - `lint:fix` - check for linting errors + fix some (prettier mainly)
 - `test` - run tests
 - `test:watch` - run tests in watch mode
+- `test:coverage` - run tests with coverage
 
 ## Getting Started
 

@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Button from '../components/ui/Button'
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       </Head>
       <main>
         <h1>Raigato Next Typescript Template 🐊</h1>
+        <Button text="Click Me" />
       </main>
     </>
   )

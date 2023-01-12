@@ -1,0 +1,7 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "[HUSKY] pre-commit: Running linter"
+yarn lint-staged
+echo "[HUSKY] pre-commit: Running tests"
+yarn test --changed --passWithNoTests

@@ -9,13 +9,13 @@ To create a Next.js app using this template, run one of the following commands:
 **npm**
 
 ```
-npx create-next-app --use-npm -e "https://github.com/Raigato/next-templates/tree/master/base"
+npx create-next-app --use-npm -e "https://github.com/Raigato/next-templates"
 ```
 
 **yarn**
 
 ```
-yarn create next-app -e "https://github.com/Raigato/next-templates/tree/master/base"
+yarn create next-app -e "https://github.com/Raigato/next-templates"
 ```
 
 ## This template includes 📦
